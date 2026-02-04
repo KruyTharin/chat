@@ -1,6 +1,16 @@
-# Turborepo starter
+# 💬 Real-Time Chat App (Turborepo)
 
-This Turborepo starter is maintained by the Turborepo core team.
+This is a full-stack, real-time chat application built with **NestJS**, **Next.js**, and **Socket.io**.
+
+### 🗺 Project Roadmap
+
+Check out the **[CHAT_APP_PLAN.md](./CHAT_APP_PLAN.md)** for the detailed step-by-step implementation guide.
+
+---
+
+## 🏗 Turborepo Setup
+
+This starter is maintained by the Turborepo core team.
 
 ## Using this example
 
